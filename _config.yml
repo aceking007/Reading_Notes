@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: aceking007
 minimal_mistakes_skin: neon
 search: true
+baseurl: /Reading_Notes
 
 # Build settings
 markdown: kramdown
