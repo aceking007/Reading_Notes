@@ -15,14 +15,14 @@ tags:
 
 ### Comparison of proximal and distal DHSs (DNAse-I Hypersensitivity Sites)
 
-![DHSs sites](assets/images/Genome_wide_1.png)
+![DHSs sites](../../assets/images/Genome_wide_1.png)
 
 - Two mouse cell lines used: NIH-3T3 and P5424
 - TSS (Transcription Start Site) overlapping regions displaying enhancer activity, here defined as Epromoters, might represent regulatory elements with dual promoter and enhancer functions.
 
 ### Assessment of the Enhancer activity of coding gene promoters
 
-![Enhancer Activity](assets/images/Genome_wide_2.png)
+![Enhancer Activity](../../assets/images/Genome_wide_2.png)
 
 - K562 & HeLa cell lines were used
 - Epromoters were defined as promoters for which the fold change in signal for both replicates was beyond the inflexion point of ranked promoters.
